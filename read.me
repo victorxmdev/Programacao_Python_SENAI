@@ -1,0 +1,1 @@
+Exercícios realizados no curso de Programação em Python, ministrado pela professora Beatriz Alves no SENAI Hermenegildo Campos de Almeida
